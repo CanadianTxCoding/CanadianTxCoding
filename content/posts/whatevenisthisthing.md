@@ -1,6 +1,7 @@
 ---
 title: "What even is this thing?"
 date: 2022-05-25T10:42:48-05:00
+author: "Tate Wilhelm"
 draft: false
 ---
 
